@@ -3,6 +3,10 @@ rgs ={
     name = "rg_mk"
     location = "japaneast"
 }
+rg={
+    name = "rg_mk"
+    location = "japaneast"
+}
 }
 vnets ={
     vnet1={
