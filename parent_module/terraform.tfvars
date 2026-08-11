@@ -5,7 +5,7 @@ rgs ={
 }
 rg2={
     name = "rg_mk"
-    location = "japaneast"
+    location = "centralindia"
 }
 }
 vnets ={
