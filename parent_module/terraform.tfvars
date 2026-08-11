@@ -3,7 +3,7 @@ rgs ={
     name = "rg_mk"
     location = "japaneast"
 }
-rg={
+rg2={
     name = "rg_mk"
     location = "japaneast"
 }
